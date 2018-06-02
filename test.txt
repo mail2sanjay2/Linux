@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 sudeep sudeep 0 Jun  2 23:00 test.txt
